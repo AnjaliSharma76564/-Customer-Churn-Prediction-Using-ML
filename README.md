@@ -1,6 +1,7 @@
 # Customer-Churn-Prediction-Using-ML
 Built a machine learning model to predict customer churn using customer behavior and subscription data. Conducted EDA, feature engineering, and model evaluation to identify key drivers of churn and provide data-driven retention insights.
-Project Overview
+
+# Project Overview
 
 Customer churn prediction helps businesses identify customers who are likely to stop using their services. In this project, we build a machine learning model to predict whether a customer will churn based on historical customer data such as demographics, usage patterns, and service details.
 
